@@ -35,3 +35,4 @@ Proceso que el sistema web automatiza: **registro y gestión de un suceso**, des
 | Reasignar un móvil cuando haya uno libre | Despacho / Móvil en calle | Intervencion_Movil: movil_asignado |
 | Registrar el resultado de la intervención | Despacho / Móvil en calle | Intervencion_Movil: observaciones, resultado, fecha_hora_cierre |
 | Registrar 5 o 2 puntos y cerrar el suceso | Sistema web | Registro_Productividad: id_operador, id_intervencion, puntos, fecha; Suceso: estado = cerrado |
+<img width="2530" height="899" alt="bpmn-proceso" src="https://github.com/user-attachments/assets/24cfb7b9-10ec-4bcd-b18a-fdff13f0021b" />
